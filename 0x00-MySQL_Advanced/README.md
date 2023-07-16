@@ -1,5 +1,7 @@
 # MySQL advanced
 
+![image](https://github.com/ugoem/alx-backend-storage/assets/24642339/4612e97a-2e43-4b5e-b288-5bd739447386)
+
 ## Concepts
 For this project, we expect you to look at this concept:
 

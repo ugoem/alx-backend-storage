@@ -1,5 +1,6 @@
 # 0x02. Redis basic
 
+![image](https://github.com/ugoem/alx-backend-storage/assets/24642339/a3603515-eb03-46d6-9d52-314c6b39efa5)
 
  
 ## Resources
